@@ -1,2 +1,2 @@
 # git_test
-READNE.md
+Welcome Odin 
